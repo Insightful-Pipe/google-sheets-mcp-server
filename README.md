@@ -103,6 +103,15 @@ Then authorize the connection when Cursor prompts you.
 | `update_sheet_properties` | Rename a tab, change its tab colour, freeze rows/columns, or hide/show it |
 | `update_slicer` | Modify an existing slicer's column index or data range |
 
+## Control What Your AI Can Do
+
+You decide what AI agents can do with each connected account:
+
+- **Turn individual actions on or off** for every connected account, so agents only see the actions you allow.
+- **Connect as Read-only or Read & Write.** A read-only connection can only enable read actions.
+- **Destructive actions stay off by default.** Actions such as deletes are disabled until an admin enables them.
+- **Team access per account.** Restricted team members only use the accounts they are granted, with the read actions enabled on them.
+
 ## Usage Examples
 
 ```
@@ -116,6 +125,12 @@ Then authorize the connection when Cursor prompts you.
 ```
 "Create a chart of monthly revenue"
 ```
+
+## Ready-Made Skills and Prompts
+
+- [Spreadsheet Data Overview](https://insightfulpipe.com/marketing-prompts-library/google-sheets-spreadsheet-data-overview)
+- [Custom Report Builder From Sheets](https://insightfulpipe.com/marketing-prompts-library/google-sheets-custom-report-builder-from-sheets)
+- [Campaign Tracking Sheet Analysis](https://insightfulpipe.com/marketing-prompts-library/google-sheets-campaign-tracking-sheet-analysis)
 
 ## Explore More MCP Servers by Insightful Pipe
 
