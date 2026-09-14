@@ -126,6 +126,10 @@ You decide what AI agents can do with each connected account:
 "Create a chart of monthly revenue"
 ```
 
+## Pricing
+
+The Google Sheets MCP server is included in every InsightfulPipe plan, together with all other MCP servers and the CLI. Plans start at $29.99/month with a 7-day free trial. See [insightfulpipe.com/pricing](https://insightfulpipe.com/pricing) for current plans.
+
 ## Ready-Made Skills and Prompts
 
 - [Spreadsheet Data Overview](https://insightfulpipe.com/marketing-prompts-library/google-sheets-spreadsheet-data-overview)
